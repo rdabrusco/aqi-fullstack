@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:rdabrusco/aqi-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:rdabrusco/aqi-backend.git
