@@ -5,7 +5,7 @@
   "scripts": {
     "build-frontend": "cd ./frontend  && npm run build  ",
     "start-backend": "cd ./backend && npm start",
-    "start": "start-backend"
+    "start": "cd ./backend && npm start"
     
   },
   "dependencies": {}
